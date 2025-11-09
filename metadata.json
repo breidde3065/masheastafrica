@@ -1,0 +1,5 @@
+{
+  "name": "Mash East Africa Bus Booking",
+  "description": "A modern and user-friendly bus ticket booking application for Mash East Africa, allowing users to search for trips, select seats from a visual layout, and complete their booking.",
+  "requestFramePermissions": []
+}
